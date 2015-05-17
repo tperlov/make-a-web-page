@@ -1,0 +1,68 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	border-radius: 40px;
+	padding: 20px;
+	margin: 10px;
+}
+
+
+.Stage11 {
+	background-color: white;
+	border-color: #00A6FF;
+	border-style: solid;
+	border-radius: inherit;
+	padding: inherit;
+	margin: inherit;
+}
+
+.sub11{
+	padding:inherit;
+	background-color: #BDE8FF;
+	border-radius: inherit;
+	margin-top: inherit;
+	margin-bottom: inherit;
+}
+
+img.puppies{
+	max-width: 25%;
+	margin-left: auto;	
+	margin-right: auto;
+}
+
+.Stage12 {
+	background-color: white;
+	border-color: #00FBFF;
+	border-style: solid;
+	border-radius: inherit;
+	padding: inherit;
+	margin: inherit;
+}
+
+.sub12{
+	padding:inherit;
+	background-color: #CCFEFF;
+	border-radius: inherit;
+	margin-top: inherit;
+	margin-bottom: inherit;
+}
+
+.Stage13 {
+	background-color: white;
+	border-color: #00FF08;
+	border-style: solid;
+	border-radius: inherit;
+	padding: inherit;
+	margin: inherit;
+}
+
+.sub13{
+	padding:inherit;
+	background-color: #CCFFF2;
+	border-radius: inherit;
+	margin-top: inherit;
+	margin-bottom: inherit;
+}
+
